@@ -9,7 +9,7 @@
 ## 🛠️ Technologies Used  
 
 - **JUnit 4/5**
-- 
+
 - **Maven/Gradle** (for build automation)
-- 
+
 - **Java/Kotlin**
